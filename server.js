@@ -18,5 +18,5 @@ io.on('connection', (socket) => {
 });
 
 http.listen(3000, () => {
-  console.log('Server running on http://localhost:3000');
+  console.log('Server running on http://3.82.191.179:3000');
 });
